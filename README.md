@@ -1,2 +1,2 @@
-# Super-Trunfo-c
-Jogo do Super Trunfo_C
+# Jogos-c
+Jogos simples que criei durente meus estudos.
